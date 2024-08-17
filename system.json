@@ -29,8 +29,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://github.com/tomski80/shiver",
-  "manifest": "https://github.com/tomski80/shiver/releases/download/v0.2.3-beta.4/system.json",
-  "download": "https://github.com/tomski80/shiver/releases/download/v0.2.3-beta.4/shiver.zip",
+  "url": "https://github.com/luizfaust/shiver",
+  "manifest": "system.json",
+  "download": "https://github.com/luizfaust/shiver/archive/refs/tags/beta.zip",
   "license": "LICENSE.txt"
 }
